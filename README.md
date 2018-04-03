@@ -1,15 +1,19 @@
 # CarRental
 CarRentalRepository
 
-****************************Software SetUp*******************************************
+**User must register and login inorder to book a car**
+
+
+
+**Software SetUp**
 presentation layer :
 ------------------
 
-Jsp
-Html
-Javascript
-JQuery
-Bootstrap
+Jsp,
+Html,
+Javascript,
+JQuery,
+Bootstrap,
 
 Serice layer :
 --------------
