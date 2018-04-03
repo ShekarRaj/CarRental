@@ -1,7 +1,7 @@
 # CarRental
 CarRentalRepository
 
-**User must register and login inorder to book a car**
+**Note : User must register and login inorder to book a car**
 
 
 
